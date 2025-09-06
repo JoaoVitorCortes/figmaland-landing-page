@@ -1,7 +1,7 @@
 # Landing Page de Negócios 💼
 🇧🇷 Este projeto foi desenvolvido com o objetivo de praticar meus conhecimentos em Tailwind CSS. Trata-se de uma réplica de uma landing page da Figma Community, totalmente desenvolvida em Tailwind CSS. Foi a primeira vez que implementei a biblioteca via npm, utilizando sua versão npx CLI para a compilação, bem como um mapa interativo integrado à interface do projeto.
 
-🇺🇸 This project was built to practice my skills with Tailwind CSS. It’s a replica of a landing page from Figma Community, fully developed with Tailwind CSS. It was also my first time setting up the library via npm, using the npx CLI for the build process, an interactive map integrated into the project’s interface as well.
+🇺🇸 This project was built to practice my skills with Tailwind CSS. It’s a replica of a landing page from Figma Community, fully developed with Tailwind CSS. It was also my first time setting up the library via npm, using the npx CLI for the build process, and an interactive map integrated into the project’s interface as well.
 
 ## Deploy 🧑‍💼
 
